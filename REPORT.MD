@@ -54,8 +54,52 @@ The analysis followed a structured approach involving:
 - Conversely, customers commuting 10+ miles show the lowest purchase rate (30%), indicating that longer distances discourage bike use for daily travel.
 
 ## Car Ownership
--Car ownership strongly influences purchase intent:
+- Car ownership strongly influences purchase intent:
+- Non-car owners show the highest purchase rate (61%), highlighting the role of bikes as a primary mode of transport.
+- Customers owning one car display a significantly lower purchase rate (36%), suggesting that car availability reduces the perceived need for a bike.
 
-Non-car owners show the highest purchase rate (61%), highlighting the role of bikes as a primary mode of transport.
+**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWY5ZDllZWItYzY0Ni00NjE5LTk0YzUtZTJkMWQzMWQzYmFiIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
-Customers owning one car display a significantly lower purchase rate (36%), suggesting that car availability reduces the perceived need for a bike
+# Data Insights Summary 
+
+- The analysis reveals that out of a total of 1,000 clients, 481 customers purchased bikes, resulting in an overall purchase rate of 48%, meaning nearly half of the customer base converted into buyers. Regionally, the Pacific area recorded the highest level of interest with a **59%** purchase rate, showing stronger engagement compared to other regions. In terms of age, customers between **25 and 39 years** old emerged as the most active buyers, accounting for a **56%** purchase rate, indicating that younger adults are the most responsive demographic.
+
+- When analyzed by education level, clients with a Bachelor’s degree showed the strongest likelihood to purchase at 55%, closely followed by those with graduate degrees. This suggests that educational attainment positively influences bike ownership decisions. From the perspective of occupation, professionals recorded the highest purchase rate of **54%**, showing a stronger preference for biking than other job groups.
+
+- Commute distance also plays a crucial role; customers traveling 2 to 5 miles have the highest purchase rate at 59%, positioning them as an ideal target segment for marketing campaigns promoting biking as a convenient commute option. Lastly, clients without cars demonstrated the highest likelihood of purchasing a bike, with a 61% purchase rate, underscoring biking as a preferred mode of transport for individuals without access to a vehicle.
+
+- In summary, the most promising customer profile is a young, educated professional who commutes short distances, resides in the Pacific region, and does not own a car — a group that represents the strongest potential for targeted marketing and sales growth.
+
+# Key Recommendations
+## Target Age Group
+- Focus marketing and promotional campaigns on the **25–39** age group, emphasizing:
+- Convenience for short-distance commuting
+- Fitness and health benefits
+- Eco-friendly lifestyle choices
+
+## Regional Focus
+- Invest more resources in the Pacific region, where demand is strongest.
+- Develop tailored engagement strategies for North America to boost conversions despite its larger customer base.
+
+## Occupation-Based Strategy
+- Strengthen promotions targeting Professional and Clerical workers **(54% and 50% purchase rates)**.
+- Highlight themes like time efficiency, work-life balance, and sustainable commuting.
+
+## Educational Targeting
+- Maintain strong engagement with Bachelor’s and Graduate degree holders, leveraging digital ads and lifestyle-based campaigns.
+- Design simplified and incentive-based marketing for customers with a High School education to encourage participation.
+
+## Commute Distance Strategy
+- Develop product bundles and campaigns targeting customers who commute **2–5** miles daily.
+- Position bikes as cost-effective, time-saving, and environmentally friendly commuting alternatives.
+
+## Non-Car Owners
+- Leverage this group’s high purchase rate by promoting bikes as a primary, affordable transportation solution.
+- Highlight maintenance ease and flexible payment options to enhance accessibility.
+
+## Conclusion
+
+This analysis provides a comprehensive understanding of customer purchasing behavior, revealing that younger, educated professionals and non-car owners with short commutes are the most promising market segments.
+By strategically focusing on these demographics and regions, the business can significantly improve sales performance, marketing efficiency, and customer engagement.
+
+The insights generated not only guide targeted marketing but also support long-term strategic planning — ensuring data-driven decisions that align with customer needs and preferences.
