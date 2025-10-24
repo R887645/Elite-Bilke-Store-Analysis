@@ -17,7 +17,6 @@ The objectives of this analysis are to:
 The analysis followed a structured approach involving:
 **1. Data Cleaning and Preparation:** Ensuring the dataset was accurate, consistent, and free from missing or duplicate entries.
 **2. Exploratory Data Analysis (EDA):** Generating descriptive statistics, data visualizations, and correlation checks to understand relationships between variables.
-
-Segmentation and Visualization: Using charts and graphs to segment customers based on demographics and purchasing decisions.
+- Segmentation and Visualization: Using charts and graphs to segment customers based on demographics and purchasing decisions.
 
 Insight Generation: Interpreting results to uncover behavioral patterns and business implications.
